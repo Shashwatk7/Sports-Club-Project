@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sports Club</title>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+<header>
+<div class="main">
+<div class="logo">
+<img src="image2.jpg">
+</div>
+<ul>
+<li><a href="SportsclubProject.html">Home</a></li>
+<li><a href="ABOUTUS.html">About</a></li>
+<li><a href="Sports.html">Sports</a></li>
+<li><a href="SUBCRIPTIONN.html"></a>Subscription</li>
+<li><a href="CONTACT.html">Contact Us</a></li>
+</ul>
+</div>
+</header>
+<div class="clubs">
+<ul>
+<li><h1><big>Clubs</big></h1></li><br/>
+<li><a href="Sports.html">Volleyball</a></li><br/>
+<li><a href="Sports.html">Football</a></li><br/>
+<li><a href="Sports.html">Badminton</a></li><br/>
+<li><a href="Sports.html">Swimming</a></li><br/>
+</ul>
+</div>
+<center>
+<div class="heading">
+<hr/><br/><br/><h1><a href="Subscription.html">---Start Training Now ---</a></h1><br/><br/><hr/><br/><br/><br><br/><br/>
+<h2>------------ WHY TO JOIN "SPORTS" CLUB?? -------------</h2>
+<p1>
+A sports club is a group of people formed for the purpose of playing sports 
+which focuses on promoting and developing interest in a particular sport or particular activity.<br/>
+Our club focuse may be recreational,instruction,competitive, or
+a combination of these types of activities based on its rules & regulations.<br/>
+Our club are strictly voluntary and involvment in sport and enhance the athlete's 
+sports experience and contribute to the athletes overall physical and wellness.<br/>
+All programs are based on athletes interest and designed to enchance the atheletes experience by creating an enviornment 
+where students can unite in diverse groups to achieve common goals and objectives while encouraging healthy lifestyles.<br/>
+Sports club provide a valuable learning experience through athletes involvment in fundraising,public,relations,organization and 
+leadership development.<br/>
+The clubs with the most success and stability are those with active members and dedicated officers.<br/><br/?
+</p1>
+<p2>
+<h3><u>---Responsibilities---</u></h3><br/>
+<big>#</big> Follow the Sports Club rules & regulations. <br/><br/>
+<big>#</big> Participate in Sports club meeting at least once per month. <br/><br/>
+<big>#</big> Try to maintain sportsman spirit throghout the game. <br/><br/>
+<big>#</big> Try to participate in the sport chosen by you. <br/><br/>
+<big>#</big> Review and approve clubs seeking new admittance and/or reinstatement into the program.<br/><br/>
+-----------------//----------------------------//------------------------------------
+</p2>
+</center>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div class="end">
+<h1 align="center">"JOIN OUR CLUB"</h1>
+</div>
+<br/><br/><br/><br/><br/><br/>
+</body>
+</html>
+
+
+
+
+
+
